@@ -1,1 +1,42 @@
-//Matt Brandabur will fill this with correct information
+{
+  "tunes": [
+    {
+      "song_title": "Willow Weeps",
+      "lyric_writer": "Weird Summer",
+      "music_writer": "Bob Kimball",
+      "link": "https://open.spotify.com/track/2Q8KiCGXpBriTBvsUfEGZj?si=aaefedb294db43fc",
+      "id": 1
+    },
+    {
+      "song_title": "Move My Car",
+      "lyric_writer": "BrowBeaters",
+      "music_writer": "BrowBeaters",
+      "link": "https://drive.google.com/file/d/0B6GXm1GcjzDHNG51N0o0MVJnV0k/view?usp=drive_link&resourcekey=0-CAqUq5rIFObWEOUj1q7xcg",
+      "id": 2
+    },
+    {
+      "song_title": "Broken Bones",
+      "lyric_writer": "Kevin Henry",
+      "music_writer": "Kevin Henry",
+      "link": "https://drive.google.com/file/d/1ztIc5S7rKPiODomZAyF6aD407UTcD1q1/view?usp=drive_link",
+      "id": 3
+    }
+  ],
+ "notes": [
+    {
+      "note_name": "Mid-tempo rocker, jangle pop, well-recorded.",
+      "version": "Final LP",
+      "tune_id": 1      
+    },
+    {
+      "note_name": "Scratch version of early song. May be usable.",
+      "version": "Scratchpad",
+      "tune_id": 2      
+    },
+    {
+      "note_name": "Rough early draft for comments only.",
+      "version": "Reference tune",
+      "tune_id": 3      
+    }
+  ]
+}
